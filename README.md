@@ -52,4 +52,6 @@ This requires `node_modules` to be installed (`npm install`). The script is main
 
 Every third-party module from npm that gets includes in the final, distributed bundle has its license verified and license text (if provided) or license type shipped in licenses.txt with the bundle. Licenses must be in the pre-approved list of permissive open-source licenses. If it's necessary to override a license for a module because it's missing or improperly tagged in its package.json, add an entry in license-overrides.json.
 
+*Variables and function names are used as convention and do not reference any commercial product.*
+
 License descriptions and public license URLs are maintained in licenses.json as well, but they are not verified and might not be up to date.
