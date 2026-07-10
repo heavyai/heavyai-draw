@@ -66,7 +66,7 @@ License descriptions and public license URLs are maintained in licenses.json as 
 > [!WARNING]
 > **Do not report security vulnerabilities through public GitHub issues!**
 
-NVIDIA takes security seriously. If you discover a vulnerability in useWhisper, **DO NOT open a public issue**. Use one of the private reporting channels described in [SECURITY.md](https://github.com/heavyai/heavyai-draw/blob/master/SECURITY.md).
+NVIDIA takes security seriously. If you discover a vulnerability in heavyai-draw, **DO NOT open a public issue**. Use one of the private reporting channels described in [SECURITY.md](https://github.com/heavyai/heavyai-draw/blob/master/SECURITY.md).
 
 
 # Support
