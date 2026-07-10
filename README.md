@@ -31,7 +31,7 @@ npm run build
 
 # Testing and Linting
 
-Contributions to the HEAVY.AI Draw library should be unit-tested and linted.
+Contributions to the HeavyAI Draw library should be unit-tested and linted.
 
 The linter can be invoked manually with
 
